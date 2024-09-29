@@ -31,7 +31,7 @@ pip install pillow-heif Pillow tqdm
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-repo/heif-to-jpg.py.git
-   cd heif-to-jpg-converter
+   cd heif-to-jpg.py
    ```
 
 2. **Place your images in the `IMPORT` folder**:
